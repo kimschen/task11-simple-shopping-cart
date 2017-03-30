@@ -1,0 +1,63 @@
+﻿body {
+    margin: 0px;
+}
+
+#Content2 {
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    overflow: hidden;
+    margin: 0px;
+}
+
+ul li {
+    float: left;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+li a:hover {
+    background-color: orange;
+}
+
+#topContent {
+    margin-bottom: 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2 {
+    margin: 10px;
+}
+
+table {
+    margin: 20px;
+}
+
+td {
+    padding: 5px;
+}
+
+p {
+    padding-left: 30px;
+}
+
+.errorMsg {
+    color: red;
+}
+
+#customerInfo {
+    margin-left: 20px;
+}
